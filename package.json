@@ -1,20 +1,23 @@
 {
-  "name": "playwright-example",
+  "name": "playwright-image-downloader",
   "version": "1.0.0",
-  "description": "This is an example for Playwright",
+  "description": "An example Playwright project",
   "main": "index.js",
-  "scripts": {
-    "test": "npx playwright test --reporter=html"
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LordTurban/playwright-image-downloader.git"
   },
   "keywords": [],
-  "author": "fturbana",
+  "author": "",
   "license": "ISC",
-  "type": "commonjs",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/LordTurban/playwright-image-downloader/issues"
+  },
+  "homepage": "https://github.com/LordTurban/playwright-image-downloader#readme",
   "devDependencies": {
-    "@playwright/test": "^1.58.2",
-    "@types/node": "^25.5.0",
-    "dotenv": "^17.3.1",
-    "tsx": "^4.21.0",
-    "typescript": "^5.9.3"
+    "@playwright/test": "^1.62.0",
+    "@types/node": "^26.1.2"
   }
 }
