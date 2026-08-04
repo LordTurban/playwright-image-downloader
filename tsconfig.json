@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "target": "ES6",
+    "module": "commonjs",
+    // Add this line if it's missing, or add "node" to the existing array
+    "types": ["node"]
+  }
+}

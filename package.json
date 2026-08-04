@@ -18,6 +18,7 @@
   "homepage": "https://github.com/LordTurban/playwright-image-downloader#readme",
   "devDependencies": {
     "@playwright/test": "^1.62.0",
-    "@types/node": "^26.1.2"
+    "@types/node": "^26.1.2",
+    "dotenv": "^17.4.2"
   }
 }
